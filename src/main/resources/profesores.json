@@ -1,0 +1,41 @@
+[ {
+  "nombre" : "Fernando López",
+  "dni" : "23452154B",
+  "edad" : 33,
+  "departamento" : "Ciencias"
+}, {
+  "nombre" : "Isabel Rodríguez",
+  "dni" : "22222222R",
+  "edad" : 28,
+  "departamento" : "Matemáticas"
+}, {
+  "nombre" : "Juan García",
+  "dni" : "57897457F",
+  "edad" : 42,
+  "departamento" : "Matemáticas"
+}, {
+  "nombre" : "Julio Iglésias",
+  "dni" : "954877S",
+  "edad" : 31,
+  "departamento" : "Ciencias"
+}, {
+  "nombre" : "Mario Garía",
+  "dni" : "15463433C",
+  "edad" : 42,
+  "departamento" : "Informática"
+}, {
+  "nombre" : "Pedro Alonso",
+  "dni" : "12345678D",
+  "edad" : 29,
+  "departamento" : "Informática"
+}, {
+  "nombre" : "Sonia López",
+  "dni" : "98755455S",
+  "edad" : 53,
+  "departamento" : "Informática"
+}, {
+  "nombre" : "david",
+  "dni" : "39514159K",
+  "edad" : 33,
+  "departamento" : "LENGUA_Y_LITERATURA"
+} ]

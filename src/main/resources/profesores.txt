@@ -1,0 +1,8 @@
+Fernando López;23452154B;33;Ciencias
+Isabel Rodríguez;22222222R;28;Matemáticas
+Juan García;57897457F;42;Matemáticas
+Julio Iglésias;954877S;31;Ciencias
+Mario Garía;15463433C;42;Informática
+Pedro Alonso;12345678D;29;Informática
+Sonia López;98755455S;53;Informática
+david;39514159K;33;LENGUA_Y_LITERATURA
