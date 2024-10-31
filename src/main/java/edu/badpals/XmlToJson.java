@@ -17,8 +17,5 @@ public class XmlToJson {
         }catch (IOException e){
             System.out.println("Error al leer el archivo.");
         }
-
-
-
     }
 }
